@@ -1,12 +1,12 @@
 var W=[
-{t:"Guten Morgen",c:"portrait",y:"2026",w:1,g:"url(assets/images/photo-1.jpg) center/cover"},
-{t:"Beach",c:"travel",y:"2026",g:"url(assets/images/photo-2.jpg) center/cover"},
-{t:"Bakery",c:"street",y:"2026",g:"url(assets/images/photo-3.jpg) center/cover"},
-{t:"Event",c:"portrait",y:"2026",g:"url(assets/images/photo-4.jpg) center/cover"},
-{t:"Birthday",c:"travel",y:"2026",w:1,g:"url(assets/images/photo-5.jpg) center/cover"},
-{t:"Event",c:"street",y:"2026",g:"url(assets/images/photo-6.jpg) center/cover"},
-{t:"Bakery",c:"travel",y:"2026",g:"url(assets/images/photo-7.jpg) center/cover"},
-{t:"Travel",c:"portrait",y:"2026",g:"url(assets/images/photo-8.jpg) center/cover"}
+{t:"Guten Morgen",c:"portrait",y:"2026",w:1,g:"url(assets/images/photo-1.JPG) center/cover"},
+{t:"Beach",c:"travel",y:"2026",g:"url(assets/images/photo-2.JPG) center/cover"},
+{t:"Bakery",c:"street",y:"2026",g:"url(assets/images/photo-3.JPG) center/cover"},
+{t:"Event",c:"portrait",y:"2026",g:"url(assets/images/photo-4.JPG) center/cover"},
+{t:"Birthday",c:"travel",y:"2026",w:1,g:"url(assets/images/photo-5.JPG) center/cover"},
+{t:"Event",c:"street",y:"2026",g:"url(assets/images/photo-6.JPG) center/cover"},
+{t:"Bakery",c:"travel",y:"2026",g:"url(assets/images/photo-7.JPG) center/cover"},
+{t:"Travel",c:"portrait",y:"2026",g:"url(assets/images/photo-8.JPG) center/cover"}
 ];
 var $=function(i){return document.getElementById(i)},DUR=5500,cur=0,timer,raf;
 // name letters, fitted to frame width
